@@ -1,0 +1,11 @@
+C:\Users\Frozen\Desktop\Thi\QuanLyBHLN\QuanLyBHLN\bin\Debug\QuanLyBHLN.exe.config
+C:\Users\Frozen\Desktop\Thi\QuanLyBHLN\QuanLyBHLN\bin\Debug\QuanLyBHLN.exe
+C:\Users\Frozen\Desktop\Thi\QuanLyBHLN\QuanLyBHLN\bin\Debug\QuanLyBHLN.pdb
+C:\Users\Frozen\Desktop\Thi\QuanLyBHLN\QuanLyBHLN\obj\Debug\QuanLyBHLN.csprojAssemblyReference.cache
+C:\Users\Frozen\Desktop\Thi\QuanLyBHLN\QuanLyBHLN\obj\Debug\QuanLyBHLN.frmchinh.resources
+C:\Users\Frozen\Desktop\Thi\QuanLyBHLN\QuanLyBHLN\obj\Debug\QuanLyBHLN.frmDMHangHoa.resources
+C:\Users\Frozen\Desktop\Thi\QuanLyBHLN\QuanLyBHLN\obj\Debug\QuanLyBHLN.Properties.Resources.resources
+C:\Users\Frozen\Desktop\Thi\QuanLyBHLN\QuanLyBHLN\obj\Debug\QuanLyBHLN.csproj.GenerateResource.cache
+C:\Users\Frozen\Desktop\Thi\QuanLyBHLN\QuanLyBHLN\obj\Debug\QuanLyBHLN.csproj.CoreCompileInputs.cache
+C:\Users\Frozen\Desktop\Thi\QuanLyBHLN\QuanLyBHLN\obj\Debug\QuanLyBHLN.exe
+C:\Users\Frozen\Desktop\Thi\QuanLyBHLN\QuanLyBHLN\obj\Debug\QuanLyBHLN.pdb
